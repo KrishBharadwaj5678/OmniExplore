@@ -1,8 +1,10 @@
 # OmniExplore 🌍
 
-OmniExplore offers **limitless discovery**! Input any topic and specify your language to access **comprehensive summaries**. 🧠
+OmniExplore offers **limitless discovery**! Input any topic and specify your language to access **comprehensive summaries**. 
 
----
+![OmniExploreDemo](https://github.com/KrishBharadwaj5678/OmniExplore/raw/main/OmniExploreDemo.png)
+
+## ✨ Features
 
 | **Feature**                    | **Description**                                                           |
 | ------------------------------ | ------------------------------------------------------------------------- |
@@ -16,7 +18,7 @@ OmniExplore offers **limitless discovery**! Input any topic and specify your lan
 
 ---
 
-## Tech Stack ⚙️
+## ⚙️ Tech Stack 
 
 | **Technology**       | **Description**                                                         |
 | -------------------- | ----------------------------------------------------------------------- |
@@ -26,16 +28,21 @@ OmniExplore offers **limitless discovery**! Input any topic and specify your lan
 
 ---
 
-## Installation 📥
+## 🚀 Getting Started
 
-### Clone this repo:
+### 1️⃣ Clone the repository:
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/OmniExplore.git
+```
+
+### 2️⃣ Navigate to project directory
+
+```bash
 cd OmniExplore
 ```
 
-### Install dependencies:
+### 3️⃣ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
