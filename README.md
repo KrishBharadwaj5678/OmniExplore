@@ -30,7 +30,7 @@ OmniExplore offers **limitless discovery**! Input any topic and specify your lan
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository:
+### 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/OmniExplore.git
@@ -42,7 +42,7 @@ git clone https://github.com/KrishBharadwaj5678/OmniExplore.git
 cd OmniExplore
 ```
 
-### 3️⃣ Install dependencies:
+### 3️⃣ Install dependencies
 
 ```bash
 pip install -r requirements.txt
