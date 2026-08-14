@@ -8,7 +8,7 @@ def get_language_code(language):
 # Set page configuration
 st.set_page_config(
     page_title="Omni Explore",
-    page_icon="omni.png",
+    page_icon="./assets/icons/omni.png",
     menu_items={
         "About": "OmniExplore offers limitless discovery! Input any topic and specify your language to access comprehensive summaries. Uncover knowledge effortlessly."
     }
