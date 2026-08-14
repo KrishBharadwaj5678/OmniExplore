@@ -76,7 +76,7 @@ streamlit run app.py
 
 このプロジェクトは MIT License の下で公開されています。
 
-詳細については LICENSE ファイルをご覧ください。
+詳細については [LICENSE](LICENSE) ファイルをご覧ください。
 
 <p align="center"> 
   <img src="https://github.com/KrishBharadwaj5678/OmniExplore/raw/main/assets/readme/footer.gif" width="400px"/>
